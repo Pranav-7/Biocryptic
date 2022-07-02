@@ -1,0 +1,73 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "city":"Moradabad",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "city":"Lucknow",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "city":"Noida",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "city":"Delhi",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "city":"Gurugram",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "city":"Mumbai",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    {
+        "id":7,
+        "name":"Kalpana",
+        "city":"Rampur",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":8,
+        "name":"Parul",
+        "city":"Chandigarh",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    },
+    
+    {
+        "id":9,
+        "name":"Himani",
+        "city":"Dehradun",
+        "addr":"0x3169531AC297B93921d4B32CEb8fD1AA31B0A603",
+        "ether":"0.02"
+    }
+]
