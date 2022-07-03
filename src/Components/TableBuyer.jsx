@@ -82,6 +82,7 @@ const TableBuyer = () => {
       price,
       location,
     });
+    
   };
 
   const getToDatabase = async () => {
@@ -100,13 +101,13 @@ const TableBuyer = () => {
 
   return (
     <>
-      <div className="container my-5">
-        <div className="d-flex justify-content-end">
-          <button className="btn btn-primary my-2 px-5" onClick={forceUpdate}>
+      <div className="container my-5" >
+        <div className="d-flex justify-content-end mt-5 pt-5" id="buyer" >
+          <button className="btn btn-primary mb-2  px-5" onClick={forceUpdate}>
             Refresh
           </button>
         </div>
-        <table className="table table-bordered table-hover tableInfo">
+        <table className="table table-bordered table-hover tableInfo  " >
           <thead>
             <tr className="table-primary">
               <th scope="col">Medicine</th>
@@ -153,7 +154,7 @@ const TableBuyer = () => {
         </table>
       </div>
 
-      <form className="container mt-5">
+      <form className="container my-5 pt-5" id ="seller">
         <div className="mb-3">
           <label htmlFor="exampleInputEmail1" className="form-label">
             Medicine
@@ -236,13 +237,18 @@ const TableBuyer = () => {
             />
           </div>
         </div>
+        <div className="d-flex justify-content-start">
         <button
           type="submit"
-          className="btn btn-primary px-5"
+          className="btn btn-primary px-5 me-3"
           onClick={writeToDatabase}
         >
           Submit
         </button>
+        <button className="btn btn-primary  px-5" onClick={forceUpdate}>
+            Refresh
+          </button>
+        </div>
       </form>
     </>
   );

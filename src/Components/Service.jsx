@@ -9,37 +9,37 @@ const Service = () => {
         <div class="row justify-content-around gy-4">
           <div class="col-lg-6 img-bg" style={{backgroundImage:"url(https://images.pexels.com/photos/8830662/pexels-photo-8830662.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-8830662.jpg&fm=jpg)"}} data-aos="zoom-in" data-aos-delay="100"></div>
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+            <h3>How does the Next Gen Biocryptic Marketplace Works?</h3>
+            <p>The marketplace is based on the Web3.0 hence the data stored is on the Etherium blockchain. The Hospital indiviual network database has the list of medicines and the patient data stored on the Etherium blockchain. A platform is being provided for several hospitals to merge their resources together effectively.</p>
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <h4><a href="" class="stretched-link">BUYERS MARKET</a></h4>
+                <p>Verfied buyers and hospitals are able to purchase the listed medicine from the marketplace.</p>
               </div>
             </div>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                <h4><a href="" class="stretched-link">SELLERS MARKET</a></h4>
+                <p>Verfied sellers and hospitals are able to list the medicines on the marketplace.</p>
               </div>
             </div>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                <h4><a href="" class="stretched-link">MEDICINE STORAGE SYSTEM</a></h4>
+                <p>A medicine storage system fully customized with Rfid technology for maintaining database of the hospitals or sellers stock.</p>
               </div>
             </div>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                <h4><a href="" class="stretched-link">HOSPITAL DATABASE</a></h4>
+                <p>A realtime database hospital network connected with the medicine storage system.</p>
               </div>
             </div>
 
